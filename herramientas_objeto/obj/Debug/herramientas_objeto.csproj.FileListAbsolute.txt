@@ -1,0 +1,8 @@
+D:\Juan Manuel\herramientas_objeto\bin\Debug\herramientas_objeto.exe.config
+D:\Juan Manuel\herramientas_objeto\bin\Debug\herramientas_objeto.exe
+D:\Juan Manuel\herramientas_objeto\bin\Debug\herramientas_objeto.pdb
+D:\Juan Manuel\herramientas_objeto\obj\Debug\herramientas_objeto.csproj.AssemblyReference.cache
+D:\Juan Manuel\herramientas_objeto\obj\Debug\herramientas_objeto.csproj.SuggestedBindingRedirects.cache
+D:\Juan Manuel\herramientas_objeto\obj\Debug\herramientas_objeto.csproj.CoreCompileInputs.cache
+D:\Juan Manuel\herramientas_objeto\obj\Debug\herramientas_objeto.exe
+D:\Juan Manuel\herramientas_objeto\obj\Debug\herramientas_objeto.pdb

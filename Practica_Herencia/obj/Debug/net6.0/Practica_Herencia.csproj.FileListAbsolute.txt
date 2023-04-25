@@ -1,0 +1,15 @@
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\bin\Debug\net6.0\Practica_Herencia.exe
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\bin\Debug\net6.0\Practica_Herencia.deps.json
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\bin\Debug\net6.0\Practica_Herencia.runtimeconfig.json
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\bin\Debug\net6.0\Practica_Herencia.dll
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\bin\Debug\net6.0\Practica_Herencia.pdb
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\Practica_Herencia.csproj.AssemblyReference.cache
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\Practica_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\Practica_Herencia.AssemblyInfoInputs.cache
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\Practica_Herencia.AssemblyInfo.cs
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\Practica_Herencia.csproj.CoreCompileInputs.cache
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\Practica_Herencia.dll
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\refint\Practica_Herencia.dll
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\Practica_Herencia.pdb
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\Practica_Herencia.genruntimeconfig.cache
+D:\Juan Manuel\Ejercicios c·\Practica_Herencia\obj\Debug\net6.0\ref\Practica_Herencia.dll

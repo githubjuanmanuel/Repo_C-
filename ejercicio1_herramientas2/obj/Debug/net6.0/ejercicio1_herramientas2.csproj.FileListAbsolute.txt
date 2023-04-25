@@ -1,0 +1,15 @@
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\bin\Debug\net6.0\ejercicio1_herramientas2.exe
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\bin\Debug\net6.0\ejercicio1_herramientas2.deps.json
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\bin\Debug\net6.0\ejercicio1_herramientas2.runtimeconfig.json
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\bin\Debug\net6.0\ejercicio1_herramientas2.dll
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\bin\Debug\net6.0\ejercicio1_herramientas2.pdb
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\ejercicio1_herramientas2.csproj.AssemblyReference.cache
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\ejercicio1_herramientas2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\ejercicio1_herramientas2.AssemblyInfoInputs.cache
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\ejercicio1_herramientas2.AssemblyInfo.cs
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\ejercicio1_herramientas2.csproj.CoreCompileInputs.cache
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\ejercicio1_herramientas2.dll
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\refint\ejercicio1_herramientas2.dll
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\ejercicio1_herramientas2.pdb
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\ejercicio1_herramientas2.genruntimeconfig.cache
+D:\Juan Manuel\Ejercicios c·\ejercicio1_herramientas2\obj\Debug\net6.0\ref\ejercicio1_herramientas2.dll

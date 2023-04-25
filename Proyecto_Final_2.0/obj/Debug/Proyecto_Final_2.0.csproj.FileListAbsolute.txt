@@ -1,0 +1,13 @@
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\bin\Debug\Proyecto_Final_2.0.exe.config
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\bin\Debug\Proyecto_Final_2.0.exe
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\bin\Debug\Proyecto_Final_2.0.pdb
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2.0.csproj.AssemblyReference.cache
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2.0.csproj.SuggestedBindingRedirects.cache
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2._0.Form1.resources
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2._0.Properties.Resources.resources
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2.0.csproj.GenerateResource.cache
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2.0.csproj.CoreCompileInputs.cache
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2.0.exe
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2.0.pdb
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2._0.Registro.resources
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final_2.0\obj\Debug\Proyecto_Final_2._0.VentanaPresupuestos.resources

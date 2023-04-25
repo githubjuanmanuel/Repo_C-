@@ -1,0 +1,8 @@
+D:\Juan Manuel\ProyectoTienda\bin\Debug\ProyectoTienda.exe.config
+D:\Juan Manuel\ProyectoTienda\bin\Debug\ProyectoTienda.exe
+D:\Juan Manuel\ProyectoTienda\bin\Debug\ProyectoTienda.pdb
+D:\Juan Manuel\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.AssemblyReference.cache
+D:\Juan Manuel\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.SuggestedBindingRedirects.cache
+D:\Juan Manuel\ProyectoTienda\obj\Debug\ProyectoTienda.csproj.CoreCompileInputs.cache
+D:\Juan Manuel\ProyectoTienda\obj\Debug\ProyectoTienda.exe
+D:\Juan Manuel\ProyectoTienda\obj\Debug\ProyectoTienda.pdb

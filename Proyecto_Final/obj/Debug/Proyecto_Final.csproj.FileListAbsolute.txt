@@ -1,0 +1,12 @@
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.SuggestedBindingRedirects.cache
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\obj\Debug\Proyecto_Final.Inicio.resources
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\obj\Debug\Proyecto_Final.Registro.resources
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+D:\Juan Manuel\Ejercicios c·\Proyecto_Final\obj\Debug\Proyecto_Final.pdb

@@ -1,0 +1,15 @@
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\bin\Debug\net6.0\ExamenCapicua.exe
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\bin\Debug\net6.0\ExamenCapicua.deps.json
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\bin\Debug\net6.0\ExamenCapicua.runtimeconfig.json
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\bin\Debug\net6.0\ExamenCapicua.dll
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\bin\Debug\net6.0\ExamenCapicua.pdb
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\ExamenCapicua.csproj.AssemblyReference.cache
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\ExamenCapicua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\ExamenCapicua.AssemblyInfoInputs.cache
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\ExamenCapicua.AssemblyInfo.cs
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\ExamenCapicua.csproj.CoreCompileInputs.cache
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\ExamenCapicua.dll
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\refint\ExamenCapicua.dll
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\ExamenCapicua.pdb
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\ExamenCapicua.genruntimeconfig.cache
+D:\Juan Manuel\examenCapicua\ExamenCapicua\ExamenCapicua\obj\Debug\net6.0\ref\ExamenCapicua.dll

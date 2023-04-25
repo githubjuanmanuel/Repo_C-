@@ -1,0 +1,6 @@
+juan;juan;30
+pipe;pipe;15
+joel;joel;2
+mama;mama;20
+papa;papa;100
+ema;ema;200
