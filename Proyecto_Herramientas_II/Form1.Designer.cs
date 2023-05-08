@@ -1,6 +1,6 @@
 ﻿namespace Proyecto_Herramientas_II
 {
-    partial class Form1
+    partial class Inicio
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,19 +28,40 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // Form1
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Proyecto_Herramientas_II.Properties.Resources.Inicio;
+            this.pictureBox1.Location = new System.Drawing.Point(140, 114);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(261, 210);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // Inicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(534, 464);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Controls.Add(this.pictureBox1);
+            this.Name = "Inicio";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Space Invaders";
+            this.Load += new System.EventHandler(this.Inicio_Load);
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Inicio_KeyPress);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
+
+        private PictureBox pictureBox1;
     }
 }
